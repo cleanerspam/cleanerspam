@@ -1,4 +1,4 @@
-# 👋 Hi, I’m cleanerspam!
+# 👋 Hi, there
 
 Welcome to my GitHub profile!  
 I’m a hobbyist with a passion for:
