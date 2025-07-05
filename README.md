@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m cleanerspam!
 
-<!--
-**cleanerspam/cleanerspam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a hobbyist with a passion for:
 
-Here are some ideas to get you started:
+- 🛠️ **Android Custom ROM Development**
+- 📱 **FOSS & Privacy Apps**
+- 🤖 **Telegram Bots**
+- 🐧 **Linux Distros**
+- 🧹 **Android Debloat & Modding**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 What I Do
+
+- Tinker with Android custom ROMs & mods
+- Explore and contribute to open-source (FOSS) projects
+- Craft privacy-focused apps and tools
+- Automate tasks with Telegram bots
+- Customize and debloat Android devices
+- Test out and hop between Linux distros
+
+---
+
+## 🛠️ Skills & Tools
+
+- Android modding & ADB
+- Bash scripting
+- Python (automation & bots)
+- Linux system customization
+- Git & GitHub workflows
+- FOSS evangelism
+
+---
+
+## 🚀 Fun Facts
+
+- Always looking for new privacy apps and open-source tools
+- Love exploring the world of Linux distros—one ISO at a time
+- Enjoy minimalism, customization, and making tech truly my own
+
+---
+
+> “Stay curious. Break things. Learn. Repeat.”
+
+Feel free to explore my repos and reach out if you share similar interests!
